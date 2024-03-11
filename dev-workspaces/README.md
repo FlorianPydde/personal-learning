@@ -1,7 +1,8 @@
 # DevContainers for VSCode
+
 DevContainers are a powerful feature in VSCode that allow you to define a development environment using a Docker container. This ensures consistency across different development environments and makes it easier to share and collaborate on projects.
 
-### Learning Resources
+## Learning Resources
 
 To get started with DevContainers and enhance your knowledge, I recommend checking out the following resources:
 
