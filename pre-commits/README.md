@@ -8,9 +8,9 @@ To dive into the world of pre-commits and enhance your knowledge, I recommend ex
 
 1. **[Official Pre-Commit Framework Documentation](https://pre-commit.com/)**: The official documentation provides a comprehensive guide on setting up and configuring pre-commits using the Pre-Commit framework.
 
-2. **[Walkthrough](How to use pre-commit to automatically correct commits and merge requests with GitLab CI - Stack Overflow)**: some useful stuff from stackOverflow.
+2. **[Video Tutorial](https://www.youtube.com/watch?v=psjz6rwzMdkl)**
 
-3. **[VideoTutorial](Video tutorial)**: <https://www.youtube.com/watch?v=psjz6rwzMdk>
+3. **[Walkthrough](https://stackoverflow.com/collectives/articles/71270196/how-to-use-pre-commit-to-automatically-correct-commits-and-merge-requests-with-g)**: some useful stuff from stackOverflow.
 
 ## Requirements
 
