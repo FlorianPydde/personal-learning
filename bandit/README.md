@@ -13,5 +13,5 @@ To dive into the world of bandit and enhance your knowledge, I recommend explori
 ## Requirements
 
 1. First install pre-commit: ```pip install bandit```
-2. Create default config file ```bandit-config-generator -o config.yml```
-3. run it: ```bandit -c bandit.yaml -r .```
+2. Create default config file ```bandit-config-generator -o bandit.yaml```
+3. run it: ```bandit -c bandit.yaml -r .``` or ```bandit -c bandit.yaml -r . -f csv -o out.csv```
